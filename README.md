@@ -22,3 +22,4 @@ After you have finished, close the terminal window.
 
 Open and run the notebook of your choice
 Now that the repository has been cloned into the notebook instance you may navigate to any of the notebooks that you wish to complete or execute and work with them. Any additional instructions are contained in their respective notebooks.
+Enjoy learning:)
